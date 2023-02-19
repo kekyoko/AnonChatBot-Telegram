@@ -1,1 +1,15 @@
-# AnonChatBot-Telegram
+# Анонимный телеграм чат
+Анонимный телеграм чат написанный на Python // by hitsuune
+
+Для работы с Telegram API используется бибилотека [**aiogram**](https://github.com/aiogram/aiogram) 
+
+Для работы с базой данных используется СУБД SQLite
+
+# Архитектура
+Основная логика и работа с телеграмом находится в `main.py`
+
+Работа с базой данных находится в классе `dbworker` в файле `database.py`
+
+# Тестовый вариант
+
+Вот = [https://t.me/anonmilk_bot]
