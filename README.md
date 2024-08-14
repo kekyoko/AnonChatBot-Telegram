@@ -1,5 +1,5 @@
 # Анонимный телеграм чат
-Анонимный телеграм чат написанный на Python // by hitsuune
+Анонимный телеграм чат написанный на Python // by kyoko
 
 Для работы с Telegram API используется бибилотека [**aiogram**](https://github.com/aiogram/aiogram) 
 
