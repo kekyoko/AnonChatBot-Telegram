@@ -4,7 +4,7 @@ import random
 import sqlite3
 import string
 
-#aiogram и всё утилиты для коректной работы с Telegram API
+#aiogram и всё утилиты для коректной работы с Telegram API.
 from aiogram import Bot, types
 from aiogram.utils import executor
 from aiogram.utils.emoji import emojize
